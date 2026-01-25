@@ -7,3 +7,5 @@ My Java DSA journey (day-wise).
 - Day02/
 - Day03/
 - Day04/
+- Day05/
+- Day06/
